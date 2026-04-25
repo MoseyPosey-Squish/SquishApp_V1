@@ -21,7 +21,7 @@
 body {
   margin: 0;
   font-family: "Nunito", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
-  background: linear-gradient(145deg, #fff7fb, #f5f7ff 60%, #f6fff9);
+  background: linear-gradient(145deg, #2f3137, #3a3d45 55%, #444851);
   color: var(--text);
   min-height: 100vh;
 }
